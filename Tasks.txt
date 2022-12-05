@@ -1,0 +1,7 @@
+Tasks:
+Train model							--5-10 Minutes Setup
+Implement generative emotion		--1 hour
+Create GUI							--1 hour
+Create Video						--1 hour
+Implement Motion Diffusion			--1 hour
+3 hours extra for mistakes			--3 hours
