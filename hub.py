@@ -31,7 +31,7 @@ import glob
 import text2emotion as te
 from textblob import TextBlob
 import cohere
-co = cohere.Client('wCYeplpBKQbWYUrQMECHG5oSssKA4bhmUisqzmwq')
+co = cohere.Client('cohere API key here')
 
 
 # -*- coding: utf-8 -*-
