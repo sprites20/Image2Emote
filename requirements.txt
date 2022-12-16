@@ -28,7 +28,7 @@ pycocoevalcap==1.2
 pycocotools==2.0.6
 pyOpenSSL==22.1.0
 PyQt5==5.15.7
-pywin32==228
+pywin32==301
 ruamel_yaml==0.17.21
 ruamel_yaml_conda==0.15.100
 tensorflow==2.11.0
